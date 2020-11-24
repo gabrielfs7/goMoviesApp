@@ -1,8 +1,9 @@
 package main
 
 import (
-	"db"
 	"log"
+
+	"github.com/gabrielfs7/goMoviesApp/db"
 )
 
 func main() {
